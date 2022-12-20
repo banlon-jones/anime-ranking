@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b326e4-928c-4640-9dfd-86f327718e93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/home/homePage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/card-list/card-listing.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/card/card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/card/card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/anime.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/apiResponse.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/homePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/jikan-service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/homePage.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card-list/card-listing.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +21,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2J9Pr0zfXJvUJjpeiK2wyXseMbA" />
@@ -18,9 +43,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RunDashboard">
@@ -45,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671487520645</updated>
-      <workItem from="1671487522622" duration="557000" />
+      <workItem from="1671487522622" duration="11736000" />
     </task>
     <servers />
   </component>

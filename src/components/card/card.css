@@ -1,0 +1,26 @@
+.card {
+  width: 200px;
+  height: 300px;
+  margin: 20px;
+  background-color: #fff;
+  border-radius: 15px;
+}
+
+.card-img {
+  width: 100%;
+  height: 250px;
+  border-radius: 15px 15px 0 0;
+}
+
+.card-title {
+  padding: 6px;
+  width: 180px;
+  height: 30px;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  max-width: 400px;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
