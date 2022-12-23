@@ -1,0 +1,7 @@
+.custom-tooltip {
+  padding: 16px;
+  text-align: center;
+  border: 2px solid;
+  background-color: #ffffff;
+  border-color: #ff1046 !important;
+}

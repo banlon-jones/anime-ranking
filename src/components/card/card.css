@@ -1,9 +1,20 @@
 .card {
   width: 200px;
   height: 300px;
-  margin: 20px;
   background-color: #fff;
   border-radius: 15px;
+  transition: all 0.3s ease-out;
+  position: relative;
+}
+
+.tag {
+  z-index: 10;
+  background-color: #ff299f;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 8px;
+  border-radius: 0 10px 0 0;
 }
 
 .card-img {
@@ -24,3 +35,29 @@
   overflow: hidden;
 }
 
+.card-expand {
+  width: 300px;
+  height: 420px;
+  background-color: #fff;
+  border-radius: 15px;
+  transition: all 0.3s ease-out;
+  position: absolute;
+  z-index: 15;
+}
+
+.hidden {
+  display: none;
+  visibility: hidden;
+}
+
+.show {
+  display: block;
+  text-align: left;
+  padding-left: 8px;
+  visibility: visible;
+}
+
+.card-container {
+  width: 250px;
+  margin: 10px;
+}
