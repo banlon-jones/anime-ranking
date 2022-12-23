@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b326e4-928c-4640-9dfd-86f327718e93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/card-list/card-listing.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card/card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card/card.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/anime.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/apiResponse.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/home/homePage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/jikan-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/charts/charts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/charts/charts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/home/homePage.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card-list/card-listing.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card-list/card-listing.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card-list/card-listing.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card-list/card-listing.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card-list/card-listing.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card/card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/homePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/homePage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,10 +47,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
@@ -74,7 +79,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671487520645</updated>
-      <workItem from="1671487522622" duration="11736000" />
+      <workItem from="1671487522622" duration="22208000" />
+      <workItem from="1671559806033" duration="15650000" />
+      <workItem from="1671744470760" duration="25817000" />
     </task>
     <servers />
   </component>
@@ -86,7 +93,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

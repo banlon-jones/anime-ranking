@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import getTopAnime from "../../services/jikan-service";
 import Anime from "../../models/anime";
 import CardListing from "../../components/card-list/card-listing";
+import Chart from "../../components/charts/charts";
 
 function HomePage() {
   let animes: Anime[] = [];
@@ -17,6 +18,9 @@ function HomePage() {
     <div className="container">
       <div>
         <CardListing animes={animes}/>
+      </div>
+      <div>
+        <Chart animes={animes}/>
       </div>
     </div>
   )
